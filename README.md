@@ -6,7 +6,8 @@ Cara menjalankan :
 3. cari dan buka filenya 'index.php'
 
 Tampilan Kriptografi RSA
-![Capture1](https://user-images.githubusercontent.com/49231613/82147246-104e6e00-9881-11ea-9e52-1a23c8b5d928.png)
+![Capture1](![image](https://github.com/resiapril/Kriptografi-Modern-227006078-ResiApriliaDamayanti/assets/152474263/f63d32d1-7d39-406d-9a98-80412c8f78fb)
+)
 
 Tampilan Kriptografi AES-256
 ![Capture2](https://user-images.githubusercontent.com/49231613/82147248-12b0c800-9881-11ea-8a03-936345799df7.png)
