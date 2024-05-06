@@ -84,7 +84,7 @@
       }
     </style>
 
-    <title>Tugas Keamanan Digital</title>
+    <title>Tugas Keamanan Informasi</title>
   </head>
   <body>
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark" style="background-color : #8FBC8F">
