@@ -6,7 +6,7 @@ Cara menjalankan :
 3. Cari dan buka filenya 'index.php'
 
 Tampilan Awal Halaman
-![Screenshot 2024-05-06 171953](https://github.com/resiapril/Kriptografi-Modern-227006078-ResiApriliaDamayanti/assets/152474263/b0b935e3-4475-4147-9afc-840cc83270eb)
+![Screenshot 2024-05-06 170416](https://github.com/resiapril/Kriptografi-Modern-227006078-ResiApriliaDamayanti/assets/152474263/27f973b0-7084-4b54-8489-a4b0c41f68b3)
 
 Tampilan Kriptografi Modern Algoritma RSA
 
