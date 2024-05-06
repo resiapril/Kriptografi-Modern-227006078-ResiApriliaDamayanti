@@ -1,0 +1,6 @@
+PENTING!!!
+
+1. Copy folder "gmp" (yang ada didalam folder "library") ke dalam folder "xampp/php"
+2. cari file php.ini dalam folder "xampp/php", hapus file tersebut, dan ganti dengan file php.ini yang ada pada folder
+3. Restart Apache atau nyalakan ulang control panel
+
